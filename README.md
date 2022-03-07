@@ -6,14 +6,14 @@
   </a>
 </p>
 <p align="center">
-  ModStart的Docker一键启动环境
+  ModStart ( Laravel 9 ) 的 Docker一键启动环境
 </p>
 
 # ModStart的Docker一键启动环境
 
 ##  💡 系统简介
 
-本仓库提供了 ModStart下Docker一键启动脚本。
+本仓库提供了 ModStart ( Laravel 9 ) 下 Docker 一键启动脚本。
 
 在使用前必须先了解Docker的基础知识，具体可参考：
 
@@ -42,7 +42,7 @@ git clone https://gitee.com/modstart/ModStart_Docker_Laravel9.git
 
 ### 2. 下载ModStartCMS代码
 
-下载ModStartCMS相关程序到环境目录，命名为 modstart
+下载 ModStartCMS 相关程序到环境目录，命名为 modstart
 
 
 ```shell
