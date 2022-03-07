@@ -46,7 +46,7 @@ git clone https://gitee.com/modstart/ModStart_Docker_Laravel9.git
 
 
 ```shell
-cd ModStart_Docker
+cd ModStart_Docker_Laravel9
 # 国外
 git clone https://github.com/modstart/ModStartCMS_Laravel9.git modstart
 # 国内
