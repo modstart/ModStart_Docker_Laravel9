@@ -29,9 +29,9 @@
 
 ```shell
 # 国外
-git clone https://github.com/modstart/ModStart_Docker.git
+git clone https://github.com/modstart/ModStart_Docker_Laravel9.git
 # 国内
-git clone https://gitee.com/modstart/ModStart_Docker.git
+git clone https://gitee.com/modstart/ModStart_Docker_Laravel9.git
 ```
 
 **Windows参考**
