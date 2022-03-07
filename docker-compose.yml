@@ -12,7 +12,7 @@ services:
       - ms_php81
 
   ms_php81:
-    image: modstart/php81:1.0.0
+    image: modstart/php81:1.0.1
     volumes:
       - "./modstart:/data/website/modstart:rw"
     links:
